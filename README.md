@@ -12,3 +12,6 @@ A "growth mindset", unlike a fixed mindset, allows for expansion of pathways tow
 **Good to go BOLD**
 Another markup would be *italics*
 >When in the course of human events
+
+
+#jekyll configuration
