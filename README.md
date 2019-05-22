@@ -8,6 +8,7 @@ A "growth mindset", unlike a fixed mindset, allows for expansion of pathways tow
 2: It feels hard? It's SUPPOSED to be hard!
 3: Not smart? Surprisingly, the man who came up with the IQ test himself understood that intelligence can be increased
 
+change what I'm writing in here +++++
 
 **Good to go BOLD**
 Another markup would be *italics*
